@@ -2,7 +2,7 @@
 const cats = [
     "Milo",
     "Otis",
-    "Garfield",
+    "Garfield"
 ];
 
 function destructivelyAppendCat(name) {
